@@ -3,7 +3,9 @@ The Restaurant and Dish Review with Booking System represents an advanced, datab
 
 
 
-OBJECTIVES
+
+
+OBJECTIVES:
 
 •	Centralized Restaurant & Dish Management: Develop and oversee dynamic profiles for a diverse array of restaurants, showcasing essential details such as their location, unique cuisine styles. Each restaurant will feature a meticulously crafted menu, complete with vivid dish descriptions, price points, and options catering to various dietary needs, ensuring every diner can find their perfect meal.
 
